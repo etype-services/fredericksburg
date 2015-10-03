@@ -1,3 +1,3 @@
-# fred-22 theme
+# Fredericksburg theme
 Drupal theme
 # charliellewellin@gmail.com
